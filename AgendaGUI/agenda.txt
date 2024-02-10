@@ -1,0 +1,4 @@
+[Maria Santos] - [(555) 555-5555] - [maria.santos@example.com]
+[Pedro Ferreira] - [(555) 789-0123] - [pedro.ferreira@example.com]
+[João Silva] - [(555) 987-6543] - [ joao.silva@example.com]
+[Ana Rodrigues] - [(555) 321-6547] - [ana.rodrigues@example.com]
